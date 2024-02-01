@@ -44,8 +44,6 @@ Other useful resources:
 
     $ cp PROD/conf/publishing-example-1.conf.template conf/publishing-example-1.conf
 
-6.1. Customize the conf entries
-
     $ vi conf/publishing-example-1.conf
 
 	* Set the GLOBUS_CLIENT_ID
